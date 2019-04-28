@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5082-62AD
+
+ Directory of C:\Users\Vijayalakshmi Huddar\Desktop\finalprojectd
+
+28-04-2019  02:34    <DIR>          .
+28-04-2019  02:34    <DIR>          ..
+28-04-2019  02:34                 0 rf.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  339,028,750,336 bytes free
